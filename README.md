@@ -56,6 +56,25 @@ EchoBrain listens to your voice commands, processes them with natural language u
 
 ---
 
+### 🧠 AI & LLM Integration
+
+EchoBrain integrates HugChat (a ChatGPT-like API) to enable intelligent, conversational voice interactions. It uses prompt-based communication to process natural language commands and generate accurate, context-aware responses.
+
+Key Highlights:
+
+Integrated HugChat API to interpret free-form voice queries and respond naturally.
+
+Designed prompt structures for task-specific flows (e.g., app launching, phone commands, general queries).
+
+LLM-powered responses enhance flexibility beyond fixed command trees.
+
+Enabled smoother voice assistant interaction by combining voice-to-text processing with prompt-based LLM completions.
+
+This prompt-based LLM integration allows EchoBrain to go beyond basic command execution — providing a more fluid and intelligent assistant experience.
+
+
+---
+
 ## 🖼️ Project Screenshots
 
 <p align="center">  
