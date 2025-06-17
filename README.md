@@ -1,6 +1,6 @@
 # EchoBrain: Intelligent Voice-Controlled Virtual Assistant
 
-**EchoBrain** is an *AI-powered* voice assistant that controls apps, makes calls, and automates tasks on desktop and mobile. It features **facial recognition**, **cross-platform integration**, and a **modular design** for flexibility, providing a **secure**, **efficient**, and **intuitive** user experience.
+**EchoBrain** is an AI-powered voice assistant that controls apps, makes calls, and automates tasks on desktop and mobile. It features facial recognition, cross-platform integration, and a modular design for flexibility. With integrated LLM support via the HugChat API, EchoBrain uses prompt-driven natural language responses to deliver a secure, intelligent, and intuitive user experience.
 
 ---
 
